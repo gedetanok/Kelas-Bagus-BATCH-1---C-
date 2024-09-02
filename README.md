@@ -18,9 +18,9 @@ Bootcamp ini terdiri dari 10 pertemuan intensif, dengan setiap pertemuan diranca
 10. **Pertemuan 10: Build a Project**
 
 
-## 📝 Catatan dan Study Case
+## 📝 Study Project
 
-Jangan lupa untuk memeriksa folder `studycase/` di setiap pertemuan untuk mendapatkan pemahaman tambahan dari contoh program yang dapat dikerjakan. untuk solusi dari setiap study case dapat diakses pada `studycase/solution` Tugas-tugas ini akan membantu Anda memperkuat pemahaman dan keterampilan pemrograman Anda.
+Contoh study project di setiap pertemuan dapat diaksess melalui folder `studycase/` yaa
 
 ## 📢 Bantuan dan Dukungan
 
