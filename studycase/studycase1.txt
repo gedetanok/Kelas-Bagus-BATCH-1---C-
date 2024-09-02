@@ -1,1 +1,0 @@
-Buatlah sebuah program C++ yang mencetak "Halo, [Nama Kamu]!" di layar. Ganti [Nama Kamu] menjadi nama diri sendiri
