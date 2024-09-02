@@ -20,7 +20,7 @@ Bootcamp ini terdiri dari 10 pertemuan intensif, dengan setiap pertemuan diranca
 
 ## 📝 Catatan dan Study Case
 
-Jangan lupa untuk memeriksa folder `studycase/` di setiap pertemuan untuk mendapatkan pemahaman tambahan dari contoh program yang dapat dikerjakan. Tugas-tugas ini akan membantu Anda memperkuat pemahaman dan keterampilan pemrograman Anda.
+Jangan lupa untuk memeriksa folder `studycase/` di setiap pertemuan untuk mendapatkan pemahaman tambahan dari contoh program yang dapat dikerjakan. untuk solusi dari setiap study case dapat diakses pada `studycase/solution` Tugas-tugas ini akan membantu Anda memperkuat pemahaman dan keterampilan pemrograman Anda.
 
 ## 📢 Bantuan dan Dukungan
 
